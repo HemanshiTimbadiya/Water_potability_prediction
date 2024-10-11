@@ -37,10 +37,15 @@ Several machine learning algorithms are used to classify water as Potable or Not
 Several machine learning algorithms are used to classify water as Potable or Not Potable, including:
 
 K-Nearest Neighbors (KNN)
+
 Support Vector Classifier (SVC)
+
 Decision Tree
+
 Random Forest
+
 XGBoost
+
 The dataset was preprocessed by handling missing values, balancing the class distribution using SMOTE (Synthetic Minority Over-sampling Technique), and performing feature scaling where necessary.
 
 
