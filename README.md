@@ -6,7 +6,7 @@ This repository contains the code and resources for predicting water potability 
 Access to clean and safe drinking water is crucial for human health. This project focuses on predicting whether water is Potable (safe to drink) or Not Potable based on water quality parameters such as pH, Hardness, Solids, Chloramines, Sulfates, and more. The machine learning models developed in this project aim to automate the process of water quality assessment.
 
 
-# Dataset
+## Dataset
 The dataset contains the following features (input parameters):
 
 pH: Measure of the acidity or basicity of the water (WHO standard: 6.5–8.5)
