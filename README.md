@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for predicting water potability based on various chemical and physical water quality parameters. The goal of the project is to determine whether water is safe for human consumption using machine learning models trained on a water quality dataset.
 
- # Project Overview
+ ## Project Overview
 Access to clean and safe drinking water is crucial for human health. This project focuses on predicting whether water is Potable (safe to drink) or Not Potable based on water quality parameters such as pH, Hardness, Solids, Chloramines, Sulfates, and more. The machine learning models developed in this project aim to automate the process of water quality assessment.
 
 
@@ -33,7 +33,7 @@ Potability: Whether the water is safe to drink or not (1 for Potable, 0 for Not 
 Machine Learning Models
 Several machine learning algorithms are used to classify water as Potable or Not Potable, including:
 
-# Machine Learning Models
+## Machine Learning Models
 Several machine learning algorithms are used to classify water as Potable or Not Potable, including:
 
 K-Nearest Neighbors (KNN)
@@ -44,7 +44,7 @@ XGBoost
 The dataset was preprocessed by handling missing values, balancing the class distribution using SMOTE (Synthetic Minority Over-sampling Technique), and performing feature scaling where necessary.
 
 
- # Model Evaluation
+ ## Model Evaluation
 Each model is evaluated based on its accuracy, precision, recall, and F1-score using cross-validation. Hyperparameter tuning was performed to optimize model performance.
 
 
