@@ -10,13 +10,21 @@ Access to clean and safe drinking water is crucial for human health. This projec
 The dataset contains the following features (input parameters):
 
 pH: Measure of the acidity or basicity of the water (WHO standard: 6.5–8.5)
+
 Hardness: Measure of calcium and magnesium ions in water (WHO standard: 200 mg/L)
+
 Solids (TDS): Total dissolved solids, indicates mineral content (WHO standard: 1000 ppm)
+
 Chloramines: Used for water disinfection (WHO standard: up to 4 ppm)
+
 Sulfate: Naturally occurring in water, affects taste (WHO standard: 1000 mg/L)
+
 Conductivity: Measure of water’s ability to conduct electricity (WHO standard: 400 μS/cm)
+
 Organic Carbon: Indicator of organic pollutants (WHO standard: 10 ppm)
+
 Trihalomethanes: By-product of water chlorination (WHO standard: 80 ppm)
+
 Turbidity: Measure of water clarity (WHO standard: 5 NTU)
 
 The target variable is:
