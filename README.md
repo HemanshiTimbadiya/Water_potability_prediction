@@ -70,7 +70,7 @@ Each model is evaluated based on its accuracy, precision, recall, and F1-score u
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-project.git
+   git clone https://github.com/HemanshiTimbadiya/Water_potability_prediction.git
 2. Navigate to the project directory:
    ```bash
    cd Water potability prediction
